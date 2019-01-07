@@ -20,3 +20,15 @@ fsr.csv - five 1D force-sensing resistor data collected under one foot in a 10-m
 
 ## Sample Visualization
 Image files named acc-salience.jpg, acc-temp1.jpg, acc-temp2.jpg and acc-temp3.jpg provide visualization of the stepwise results in CyclePro.
+
+
+## Citation
+If you will use this approach or the code, please cite the following paper:
+
+@article{cyclepro,
+  author        = "Yuchao Ma and Zhila Esna Ashari and Navid Amini and Daniel Tarquinio and Kouros Nouri-Mahdavi and Mohammad Pourhomayoun and Robert D. Catena and Hassan Ghasemzadeh",
+  title         = "CyclePro: A Robust Framework for Domain-Agnostic Gait Cycle Detection",
+  journal       = "{IEEE} Sensors Journal",
+  month         = jan,
+  year          = "2019"
+}
